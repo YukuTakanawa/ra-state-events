@@ -1,0 +1,17 @@
+.toolbar__list {
+    display: flex;
+    column-gap: 5px;
+    color: #000;
+  }
+  
+  .toolbar__item {
+    padding: 5px 10px;
+    border: solid 1px #212121;
+    cursor: pointer;
+    transition: background-color 0.5s ease;
+  }
+  
+  .toolbar__item_selected {
+    background-color: #212121;
+    color: #fff;
+  }

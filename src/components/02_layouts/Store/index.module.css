@@ -1,0 +1,11 @@
+.store {
+    width: 100%;
+    padding: 50px 0;
+  }
+  
+  .store__header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-bottom: 10px;
+  }
